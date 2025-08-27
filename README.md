@@ -11,7 +11,7 @@ This GitHub project is my way of collecting stories, feedback, & little moments 
 
 If I’ve ever helped you, whether with a career opportunity, advice, or even just encouragement, 
 
-a simple ⭐ on this repo would mean the world to me.
+a simple ⭐ on this repo would mean the world to me. Feel free to file an issue or pr.
 
 It’s more than a star. It’s a small sign that our connection made a difference.
 
