@@ -34,5 +34,5 @@ Your success story could inspire someone else tomorrow.
 
 feel to reach out to me at [LinkedIn](https://www.linkedin.com/in/213vishnu/) or [X](https://twitter.com/sweetweet213)
 
-Book a free [consultation](https://calendly.com/jaihind213/30min)
+Book a free [consultation](https://calendly.com/vishnu-bytespire/30min)
 
