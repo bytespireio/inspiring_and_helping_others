@@ -2,7 +2,7 @@
 
 ## Project: Human Dimension
 
-As the Chief Inspiration Officer of [bytespire.io](bytespire.io), my mission is simple:
+As the Chief Inspiration Officer of [bytespire.io](https://www.bytespire.io/), my mission is simple:
 to inspire, uplift, and empower people in their careers.
 
 This GitHub project is my way of collecting stories, feedback, & little moments of gratitude from those I’ve had the privilege to help.
